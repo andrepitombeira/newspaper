@@ -1,0 +1,87 @@
+9
+
+dir
+19
+svn://localhost/progavan/Jornal/src/java
+svn://localhost/progavan
+
+
+
+2009-11-13T14:59:44.973419Z
+19
+fernando
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d759d995-ceb7-4d75-9d64-7bcf39498960
+
+entidades
+dir
+
+
+
+delete
+
+banco
+dir
+
+
+
+delete
+
+controle
+dir
+
+
+
+delete
+
+jornal
+dir
+
+
+
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+testes
+dir
+
+
+
+delete
+
+criptografia
+dir
+
+
+
+delete
+

@@ -1,0 +1,39 @@
+9
+
+dir
+0
+svn://localhost/progavan/Jornal/src/java/jornal/banco/conexao
+svn://localhost/progavan
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+ConectionFactory.java
+file
+
+
+
+add
+
+aa9a0e0107b2e9b8eac8f1d162559fbb
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+copied
+svn://localhost/progavan/Jornal/src/java/banco/conexao/ConectionFactory.java
+19
+
